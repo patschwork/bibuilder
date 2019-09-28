@@ -1,4 +1,4 @@
-## This is a form from: https://github.com/CuriousDevelopments/bibuilder
+## This is a fork from: https://github.com/CuriousDevelopments/bibuilder
 
 
 # BI Builder for SQL Server
